@@ -16,8 +16,9 @@ client.on('message', message => {
     console.log(from, 'FROM', body, 'MENSAJEEEEEEECAECEA');
     // client.sendMessage(from, 'Hola! Buen día!')
     if (body.toLocaleLowerCase() === 'hi') {
-        client.sendMessage(from, '🙋 Hola, te saluda *Edinson* de *Personal Class*'); 
-    }
+        client.sendMessage(from, '🙋 Hola, te saluda *Edinson* de *Personal Class*');
+    };
+    if (body.toLocaleLowerCase() === 'adios' || body.toLocaleLowerCase() === 'adiós') client.sendMessage(from, 'Hasta pronto!')
     if (body.toLocaleLowerCase() === 'quiero info') {
         const msjMedia = MessageMedia.fromFilePath('./multimedia/img.jpeg');
         client.sendMessage(from, 'Te envio la info')
