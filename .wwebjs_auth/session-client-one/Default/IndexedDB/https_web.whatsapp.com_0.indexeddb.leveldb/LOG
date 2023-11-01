@@ -1,3 +1,45 @@
-2023/10/31-15:15:06.270 3c58 Reusing MANIFEST C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/31-15:15:06.276 3c58 Recovering log #3337
-2023/10/31-15:15:06.416 3c58 Reusing old log C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003337.log 
+2023/10/31-15:16:27.418 1f10 Reusing MANIFEST C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/31-15:16:27.420 1f10 Recovering log #3337
+2023/10/31-15:16:27.568 1f10 Reusing old log C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003337.log 
+2023/10/31-15:17:17.392 1ca0 Level-0 table #3348: started
+2023/10/31-15:17:17.436 1ca0 Level-0 table #3348: 1148023 bytes OK
+2023/10/31-15:17:17.437 1ca0 Delete type=0 #3337
+2023/10/31-15:17:24.064 11d0 Compacting 1@1 + 7@2 files
+2023/10/31-15:17:24.206 11d0 Generated table #3349@1: 69300 keys, 2240020 bytes
+2023/10/31-15:17:24.262 11d0 Generated table #3350@1: 24382 keys, 2193776 bytes
+2023/10/31-15:17:24.298 11d0 Generated table #3351@1: 5091 keys, 2162567 bytes
+2023/10/31-15:17:24.381 11d0 Generated table #3352@1: 31471 keys, 2255727 bytes
+2023/10/31-15:17:24.444 11d0 Generated table #3353@1: 43078 keys, 2174198 bytes
+2023/10/31-15:17:24.567 11d0 Generated table #3354@1: 104793 keys, 2257162 bytes
+2023/10/31-15:17:24.606 11d0 Generated table #3355@1: 32126 keys, 691279 bytes
+2023/10/31-15:17:24.606 11d0 Compacted 1@1 + 7@2 files => 13974729 bytes
+2023/10/31-15:17:24.607 11d0 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3339
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3340
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3341
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3342
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3343
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3344
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3345
+2023/10/31-15:17:24.607 11d0 Delete type=2 #3348
+2023/10/31-16:02:41.671 b90 Level-0 table #3357: started
+2023/10/31-16:02:41.703 b90 Level-0 table #3357: 1100125 bytes OK
+2023/10/31-16:02:41.705 b90 Delete type=0 #3347
+2023/10/31-16:05:44.307 3fa4 Compacting 1@1 + 7@2 files
+2023/10/31-16:05:44.400 3fa4 Generated table #3358@1: 71042 keys, 2248265 bytes
+2023/10/31-16:05:44.479 3fa4 Generated table #3359@1: 24658 keys, 2191511 bytes
+2023/10/31-16:05:44.520 3fa4 Generated table #3360@1: 3810 keys, 2163597 bytes
+2023/10/31-16:05:44.706 3fa4 Generated table #3361@1: 31807 keys, 2249334 bytes
+2023/10/31-16:05:44.763 3fa4 Generated table #3362@1: 37913 keys, 2172094 bytes
+2023/10/31-16:05:44.879 3fa4 Generated table #3363@1: 104818 keys, 2258209 bytes
+2023/10/31-16:05:44.938 3fa4 Generated table #3364@1: 39026 keys, 839304 bytes
+2023/10/31-16:05:44.938 3fa4 Compacted 1@1 + 7@2 files => 14122314 bytes
+2023/10/31-16:05:44.939 3fa4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3349
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3350
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3351
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3352
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3353
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3354
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3355
+2023/10/31-16:05:44.939 3fa4 Delete type=2 #3357
