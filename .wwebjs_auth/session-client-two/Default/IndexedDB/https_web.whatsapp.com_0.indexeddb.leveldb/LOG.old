@@ -1,0 +1,16 @@
+2023/11/01-21:29:51.268 10c8 Reusing MANIFEST C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/01-21:29:51.270 10c8 Recovering log #245
+2023/11/01-21:29:51.420 10c8 Reusing old log C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000245.log 
+2023/11/01-21:30:28.709 2914 Level-0 table #256: started
+2023/11/01-21:30:28.749 2914 Level-0 table #256: 1188876 bytes OK
+2023/11/01-21:30:28.751 2914 Delete type=0 #245
+2023/11/01-21:30:28.769 2914 Compacting 1@1 + 7@2 files
+2023/11/01-21:30:29.101 2914 Generated table #257@1: 53020 keys, 2248419 bytes
+2023/11/01-21:30:29.240 2914 Generated table #258@1: 14098 keys, 2179717 bytes
+2023/11/01-21:30:29.400 2914 Generated table #259@1: 9760 keys, 2178593 bytes
+2023/11/01-21:30:29.664 2914 Generated table #260@1: 27766 keys, 2257673 bytes
+2023/11/01-21:30:29.845 2914 Generated table #261@1: 40735 keys, 2172089 bytes
+2023/11/01-21:30:30.190 2914 Generated table #262@1: 107969 keys, 2258746 bytes
+2023/11/01-21:30:30.362 2914 Generated table #263@1: 55105 keys, 1170361 bytes
+2023/11/01-21:30:30.362 2914 Compacted 1@1 + 7@2 files => 14465598 bytes
+2023/11/01-21:30:30.363 2914 compacted to: files[ 0 0 7 0 0 0 0 ]

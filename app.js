@@ -5,7 +5,7 @@ const { sendMessages } = require('./controllers/sendMessage');
 const { Client, LocalAuth, MessageMedia } = require('whatsapp-web.js');
 
 const client = new Client({
-    authStrategy: new LocalAuth({ clientId: "client-one" })
+    authStrategy: new LocalAuth({ clientId: "client-two" })
 });
 // console.log(client);
 client.on('qr', qr);

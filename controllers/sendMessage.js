@@ -18,20 +18,21 @@ const sendMessages = (client, { from, to, body }) => {
   /////////////////////////////////  CASO HOLA /////////////////////////////////////// 
 
   if (saludo(msj)) {
-    client.sendMessage(from, `🙋 Hola, gracias por comunicarte con Personal Class. Por favor, indícanos como podemos ayudarte: 
-    1) Información sobre el curso "Metodologías Ágiles" 
-    2) Información sobre la conferencia "Cambio climático y sostenibilidad" 
-    3) Clases particulares 
-    4) Contactar con un asesor`);
+    client.sendMessage(from, `🙋 Hola, gracias por comunicarte con Personal Class. Por favor, indícanos como podemos ayudarte seleccionando una de las opciones (1, 2, 3 o 4): 
+    *1)* Información sobre el curso "Metodologías Ágiles" 
+    *2)* Información sobre la conferencia "Cambio climático y sostenibilidad" 
+    *3)* Clases particulares 
+    *4)* Contactar con un asesor`);
   };
+
   /////////////////////////////////  CASO 1 /////////////////////////////////////// 
 
   if (metAgiles(msj)) {
     client.sendMessage(from, `Claro, ¿qué tipo de información requieres sobre "Metodologías Ágiles"? 
-    1A) Quiero acceder al curso 
-    1B) Llevé el curso y deseo certificarme 
-    1C) Consultar por el estado de mi certificación
-    1D) Contactar con un aseso`);
+    *1A)* Quiero acceder al curso 
+    *1B)* Llevé el curso y deseo certificarme 
+    *1C)* Consultar por el estado de mi certificación
+    *1D)* Contactar con un aseso`);
   };
 
   if (option1A(msj)) client.sendMessage(from, `Claro, aquí le paso los accesos al curso de "Metodologías Ágiles", de momento solo tenemos de 
@@ -80,10 +81,10 @@ su certificado según corresponda:
   /////////////////////////////////  CASO 3 /////////////////////////////////////// 
 
   if (clasesParticulares(msj)) client.sendMessage(from, `Genial, ¿para qué nivel requiere la información? 
-  3A) Escolar 
-  3B) Preuniversitario
-  3C) Universitario
-  3D) Contactar con un asesor`);
+  *3A)* Escolar 
+  *3B)* Preuniversitario
+  *3C)* Universitario
+  *3D)* Contactar con un asesor`);
 
   if (option3A(msj)) client.sendMessage(from, `Claro, aquí le paso la información para clases particulares para el nivel escolar:
   👉🔗 https://wa.me/p/4380388702066378/51966660663`);

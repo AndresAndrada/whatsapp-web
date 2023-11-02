@@ -1,5 +1,6 @@
 const saludo = (msj) => {
-    if (msj === 'hi' || msj === 'hola' || msj === 'hol' || msj === 'ola' || msj === 'hello') return true;
+    console.log(msj, 'MSJ');
+    if (msj === 'hi' || msj === 'hola' || msj === 'hol' || msj === 'ola' || msj === 'hello' || msj === 'hola, por favor información para *clases particulares*.') return true;
     else return false;
 };
 

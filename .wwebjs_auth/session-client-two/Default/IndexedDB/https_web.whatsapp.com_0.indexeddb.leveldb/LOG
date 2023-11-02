@@ -1,0 +1,32 @@
+2023/11/01-21:30:54.225 2318 Reusing MANIFEST C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/01-21:30:54.226 2318 Recovering log #255
+2023/11/01-21:30:54.469 2318 Reusing old log C:\Users\Usuario\Desktop\whatsapp-web\.wwebjs_auth\session-client-two\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000255.log 
+2023/11/01-21:30:54.470 2318 Delete type=2 #247
+2023/11/01-21:30:54.470 2318 Delete type=2 #248
+2023/11/01-21:30:54.470 2318 Delete type=2 #249
+2023/11/01-21:30:54.470 2318 Delete type=2 #250
+2023/11/01-21:30:54.470 2318 Delete type=2 #251
+2023/11/01-21:30:54.470 2318 Delete type=2 #252
+2023/11/01-21:30:54.470 2318 Delete type=2 #253
+2023/11/01-21:30:54.470 2318 Delete type=2 #256
+2023/11/01-21:31:19.967 2c24 Level-0 table #266: started
+2023/11/01-21:31:20.102 2c24 Level-0 table #266: 1239066 bytes OK
+2023/11/01-21:31:20.104 2c24 Delete type=0 #255
+2023/11/01-21:31:24.987 3ccc Compacting 1@1 + 7@2 files
+2023/11/01-21:31:25.067 3ccc Generated table #267@1: 53117 keys, 2251260 bytes
+2023/11/01-21:31:25.119 3ccc Generated table #268@1: 15850 keys, 2182668 bytes
+2023/11/01-21:31:25.260 3ccc Generated table #269@1: 8869 keys, 2173031 bytes
+2023/11/01-21:31:25.451 3ccc Generated table #270@1: 27782 keys, 2261900 bytes
+2023/11/01-21:31:25.592 3ccc Generated table #271@1: 35698 keys, 2168436 bytes
+2023/11/01-21:31:25.788 3ccc Generated table #272@1: 108037 keys, 2260767 bytes
+2023/11/01-21:31:25.925 3ccc Generated table #273@1: 63039 keys, 1338348 bytes
+2023/11/01-21:31:25.925 3ccc Compacted 1@1 + 7@2 files => 14636410 bytes
+2023/11/01-21:31:25.939 3ccc compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/11/01-21:31:25.940 3ccc Delete type=2 #257
+2023/11/01-21:31:25.940 3ccc Delete type=2 #258
+2023/11/01-21:31:25.940 3ccc Delete type=2 #259
+2023/11/01-21:31:25.940 3ccc Delete type=2 #260
+2023/11/01-21:31:25.940 3ccc Delete type=2 #261
+2023/11/01-21:31:25.940 3ccc Delete type=2 #262
+2023/11/01-21:31:25.940 3ccc Delete type=2 #263
+2023/11/01-21:31:25.940 3ccc Delete type=2 #266
